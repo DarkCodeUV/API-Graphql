@@ -770,3 +770,61 @@ vi leonardo_hackernews/schema.py
 vi links/schema_relay.py 
 vi leonardo_hackernews/schema.py 
 vi links/schema_relay.py 
+ls
+echo "# API-Graphql" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+ git config --global user.email "leonardo.m2349@gmail.com"
+ git config user.email "leonardo.m2349@gmail.com"
+git config  user.name "DarkCodeUV"
+git branch -M main
+git branch -M master
+ git config --global user.email "leonardo.m2349@gmail.com"
+git config --global  user.name "DarkCodeUV"
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DarkCodeUV/API-Graphql.git
+git push -u origin main
+git status
+git add .
+git commit -m "API finished"
+git push
+git status
+git push
+source venv-leonardo/bin/activate
+ls
+cd leonardo_hackernews/
+vi links/schema.py 
+cd leonardo_hackernews/
+vi links/schema.py 
+clear
+ls
+cd ..
+ls
+cd links/
+clear
+vi schema.py 
+history
+sudo docker ps
+sudo docker-compose up --build &
+ls
+vi schema.py 
+sudo docker-compose up --build &
+sudo docker-compose up --build &exit
+clear
+source venv-leonardo/bin/activate
+ls
+git status 
+add .
+cd leonardo_hackernews/
+git status
+clear
+cd ..
+ls
+cd leonardo_hackernews/
+ls
+git add .
+git commit -m "update "
+git push
+clear

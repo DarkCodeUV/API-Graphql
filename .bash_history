@@ -1,7 +1,3 @@
-w
-python3 -m venv venv-leonardo
-soururce venv-leonardo/bin/activate
-source venv-leonardo/bin/activate
 ping 8.8.8.8
 nano requeriments.tx
 gdit requeriments.tx
@@ -828,3 +824,177 @@ git add .
 git commit -m "update "
 git push
 clear
+ls
+cd leonardo_hackernews/
+git status
+git add .
+git status
+git commit -am "update"
+git push
+clear
+cd leonardo_hackernews/
+source venv-leonardo/bin/activate
+clear
+ls
+cd leonardo_hackernews/
+ls
+nano schema.py 
+ls
+cd ..
+ls
+clear
+ls
+nano manage.py 
+cd leonardo_hackernews/
+ls
+nano schema.py 
+clear
+django -v
+django --version
+django --v
+clear
+source venv-leonardo/bin/activate
+clear
+ls
+cd leonardo_hackernews/
+clear
+ls
+nano requirements.txt 
+ls
+cd links/
+ls
+clear
+ls
+cd ..
+ls
+cd leonardo_hackernews/
+ls
+nano urls.py 
+ls
+nano wsgi.py 
+ls
+clear
+ls
+nano asgi.py 
+ls
+pwd
+mkdir websocket
+cd websocket/
+nano middleware.py
+ls
+cd ..
+ls
+nano asgi.py 
+ls
+cd cd websocket/
+source venv-leonardo/bin/activate
+clear
+ls
+cd leonardo_hackernews/
+ls
+cd leonardo_hackernews/
+ls
+cd websocket/
+ls
+clear
+nano connection.py
+ls
+cd ..
+ls
+cd ..
+ls
+cd users/
+ls
+nano views.py
+ls
+cd ..
+ls
+cd ..
+ls
+cd leonardo_hackernews/
+ls
+cd leonardo_hackernews/
+ls
+nano urls.py 
+history
+clear
+sudo docker ps
+ls
+source venv-leonardo/bin/activate
+ls
+history
+clear
+sudo docker ps
+ls
+source venv-leonardo/bin/activate
+ls
+cd leonardo_hackernews/
+clear
+ls
+cd links/
+ls
+cd ..
+ls
+cd leonardo_hackernews/
+ls
+nano urls.py 
+historory
+history 
+clear
+python manage.py runserver 0.0.0.0:8086
+cd ..
+python manage.py runserver 0.0.0.0:8086
+python --version
+pip install websocket
+python manage.py runserver 0.0.0.0:8086
+pip install websocket-client
+python manage.py runserver 0.0.0.0:8086
+pip install websocket.urls
+pip list
+pip install web-push
+pip --upgrade pip
+pip install --upgrade pip
+pip install web-push
+pip install websocket.urls
+python manage.py runserver 0.0.0.0:8086
+pip list
+pip uninstall websocket
+pip uninstall websocket-client
+pip install websockets
+python manage.py runserver 0.0.0.0:8086
+pip install websocket
+python manage.py runserver 0.0.0.0:8086
+pip uninstall websockets
+clear
+python manage.py runserver 0.0.0.0:8086
+ñs
+ls
+nano leonardo_hackernews/urls.py 
+ls
+cd ..
+ls
+cd leonardo_hackernews/
+ls
+cd leonardo_hackernews/
+ls
+cd ..
+nano leonardo_hackernews/urls.py 
+python manage.py runserver 0.0.0.0:8086
+nano leonardo_hackernews/urls.py 
+python manage.py runserver 0.0.0.0:8086
+ls
+cd leonardo_hackernews/
+ls
+websocket/
+ls
+cd websocket/
+ls
+cd ..
+clear
+ls
+cd leonardo_hackernews/
+ls
+cd leonardo_hackernews/
+ls
+clear
+ls
